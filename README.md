@@ -1,5 +1,6 @@
 # RecipeApp-Improved
 
+![Image 21 06 2025 г , 14_20_09](https://github.com/user-attachments/assets/1caeda1d-a496-4a17-aef2-2759100de76d)
 
 A **Java console application** that helps you manage recipes stored in an **SQLite database**. The app demonstrates clean architecture (model, repository, service) and basic database integration.
 
